@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #ffec83;
+}
+
+#projects {
+  background-color: #ffec83;
+}
+
+
+footer {
+  background-color: #222011;
+  color: #ffffff;
+  margin: 2em 0 0 0;
+  padding: 20px; /* Ruang dalam di dalam footer */
+  text-align: center;
+  position: sticky;
+  bottom: 0;
+}
+
+nav {
+  position: sticky;
+  top: 0;
+}
